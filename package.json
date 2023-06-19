@@ -1,0 +1,31 @@
+{
+  "name": "legal_search",
+  "version": "1.0.0",
+  "description": "Project to help lawyers identify US appeals court cases that may help them in their own case.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonman239/legal_search.git"
+  },
+  "keywords": [
+    "law",
+    "appeals",
+    "court",
+    "united",
+    "states"
+  ],
+  "author": "Montana Burr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonman239/legal_search/issues"
+  },
+  "homepage": "https://github.com/moonman239/legal_search#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "ts-node": "^10.9.1"
+  },
+  "type":"module"
+}
